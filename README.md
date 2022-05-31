@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Omar Arias
 - 👀 I’m interested in developing data analytics/BI/ML solutions specially through Python
 - 🌱 I’m currently learning how to use APIs to get data from different services
+- Flutter enthusiast
 - 📫 You can reach me at oariasz72@gmail.com
 
 <!---
